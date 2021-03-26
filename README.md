@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning HTML-CSS-JS
 - 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me: www.basadis.com
+- https://github.com/PanosBSDS/GoogleNews
+- https://github.com/PanosBSDS/BlackJack
 
 <!---
 PanosBSDS/PanosBSDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
