@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML-CSS-JS
 - 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me: [basadis.com](https://basadis.com/)
-- Projects:
+ Projects:
 - https://github.com/PanosBSDS/GoogleNews
 - https://github.com/PanosBSDS/BlackJack
 - https://basadis.com/Bootstrap/viewsite.html
