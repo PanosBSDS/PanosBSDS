@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End Developer
 - 🌱 I’m currently learning HTML-CSS-JS
 - 💞️ I’m looking to collaborate on websites
-- 📫 How to reach me: www.basadis.com
+- 📫 How to reach me: [basadis.com](https://basadis.com/)
 - https://github.com/PanosBSDS/GoogleNews
 - https://github.com/PanosBSDS/BlackJack
 
